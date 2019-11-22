@@ -1,0 +1,12 @@
+INSERT INTO clientes (name, email, password, is_active) VALUES('Andrés Guzmán', 'profesor@bolsadeideas.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('John Doe', 'john.doe@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Linus Torvalds', 'linus.torvalds@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Rasmus Lerdorf', 'rasmus.lerdorf@gmail.com', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Erich Gamma', 'erich.gamma@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Richard Helm', 'richard.helm@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Ralph Johnson', 'ralph.johnson@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('John Vlissides', 'john.vlissides@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('James Gosling', 'james.gosling@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Magma Lee', 'magma.lee@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Tornado Roe', 'tornado.roe@gmail.com', 'password', true);
+INSERT INTO clientes (name, email, password, is_active) VALUES('Jade Doe', 'jane.doe@gmail.com', 'password', true);
